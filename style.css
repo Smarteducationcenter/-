@@ -54,12 +54,12 @@ html{
     padding :0 20px;
 }
 .bg1{
-    background:rgba(0, 0, 0, 0.6) url('/bg1.jpeg');
+    background:rgba(0, 0, 0, 0.6) url('../img/bg1.jpeg');
     background-size: cover;
     background-blend-mode:lighten;
 }
 .bgup{
-    background:rgba(0, 0, 0, 0.6) url('../bgup2.jpeg');
+    background:rgba(0, 0, 0, 0.6) url('../img/bgup2.jpeg');
     background-size: cover;
     background-blend-mode:darken;
 }
@@ -726,4 +726,5 @@ html{
     }
 
 }
+
 

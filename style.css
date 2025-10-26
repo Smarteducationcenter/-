@@ -54,7 +54,7 @@ html{
     padding :0 20px;
 }
 .bg1{
-    background:rgba(0, 0, 0, 0.6) url('../bg1.jpeg');
+    background:rgba(0, 0, 0, 0.6) url('bg1.jpeg');
     background-size: cover;
     background-blend-mode:lighten;
 }
@@ -724,4 +724,5 @@ html{
     background-color: #fbfcfc;
     color:rgb(7, 224, 235);
     }
+
 }

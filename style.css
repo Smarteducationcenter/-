@@ -504,12 +504,13 @@ html{
     display:block;
     position:absolute;
     cursor:pointer;
-    right:19%;
+    right:17%;
     top:19px;
+	left:4%;
     }
     .text-burgerleft{
         text-align: center;
-        font-size:28px;
+        font-size:24px;
         color: rgb(10, 233, 17); 
         font-family:cursive;
     }
@@ -582,7 +583,7 @@ html{
     margin-top:-5px;
     }
     .thumbnail img{
-    margin :5px; 
+    margin:5px; 
     }
     .text-whyus{
         text-align: justify;
@@ -703,7 +704,7 @@ html{
     flex-direction: column-reverse;
     text-align: justify;
     justify-content: center;
-    padding-left:110px;
+    padding-left:98px;
     } 
     .link{
     margin-top: 0%;
@@ -718,7 +719,7 @@ html{
     justify-content: center;
     background:none;
     color:white;
-    padding: 15px;
+    padding: 12px;
     }
     .watchgallery  a:hover{
     background-color: #fbfcfc;
@@ -726,6 +727,7 @@ html{
     }
 
 }
+
 
 
 

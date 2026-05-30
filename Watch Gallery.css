@@ -12,7 +12,7 @@ body{
 		   }
 		   .gallery img{
 		      height:900px;
-			  width:400px;
+			  width:580px;
 		   }
 		   .watchgallery{
               display: flex;
@@ -32,7 +32,7 @@ body{
 			   margin:5px;
 		   }
 		   .gallery img{
-		      height:780px;
-			  width:650px;
+		      height:820px;
+			  width:620px;
 		   }
 }
